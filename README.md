@@ -1,3 +1,8 @@
 PROJECT-TUBES1
 ==============
-touch README.md
+
+Kelompok 
+Fina Amalia
+Ridwan Slamet Hendharto (117006092)
+Sucilawati Permatasari  (117006098)
+
